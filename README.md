@@ -1,7 +1,7 @@
 # UI Test Automation Framework
 Production ready UI Test Automation Framework based on Selenium WebDriver and TestNG. 
 
-###I would be happy to show you the framework in detail, feel free to contact me for a demo!
+I would be happy to show you the framework in detail, feel free to contact me for a demo!
 
 ## Dependencies 
 This project depends on the following external libraries. 
